@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 - 🔭 I’m currently working on [TellUsStory](https://github.com/TeSiooon/tellusstory)
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Prisma**
+- 🌱 I’m currently learning **Vue and .NET**
 
 - 📫 How to reach me **piotr.kowalczyk9908@gmail.com**
 
