@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-- 🔭 I’m currently working on [TellUsStory](https://github.com/TeSiooon/tellusstory)
+- 🔭 I’m currently working on [Testify]
 
 - 🌱 I’m currently learning **Vue and .NET**
 
