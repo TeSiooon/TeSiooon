@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue and .NET**
 
-- 📫 How to reach me **piotr.kowalczyk9908@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/piotr-kowalczyk-9bba2a281/**
 
 - ⚡ Fun fact **I hate tomatoes**
 
